@@ -3,8 +3,8 @@ This is my site This is only the first version of the site
 and im trash at coding so soz lol
 
 ### about me
-my name is ali munye im a muslim from america but im on vacation and i make youtube videos and sometime livestream in twitch
-im in a org called honor gaming and thats it 
+my name is Sharp from america but im on vacation and i make youtube videos and sometime livestream in twitch
+im in a org called and thats it 
 
 seya Sharp on 60hz
 
@@ -20,3 +20,9 @@ Sharp on 60hz#2410
 
 ### Update Patches
 comming soon
+
+### Discord Bot
+if you want me to male you a discord bot dm me on discord Yvng Sharp#2410
+
+### Something Here
+i also host tournaments 
